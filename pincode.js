@@ -75701,10 +75701,4 @@ let pincodelist = {
   }
 };
 
-
-let getlatlong = async function (pincode) {
-
-    return pincodelist[pincode];
-}
-
-module.exports.getlatlong = getlatlong;
+module.exports = pincodelist;

@@ -1,6 +1,6 @@
 {
   "name": "pincode-lat-long",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Get latitude and longitude value for indian pincode.",
   "main": "index.js",
   "scripts": {

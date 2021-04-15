@@ -1,0 +1,19 @@
+{
+  "name": "pincode-lat-long",
+  "version": "1.0.0",
+  "description": "Get latitude and longitude value for indian pincode.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ramnithik/pincode-lat-long.git"
+  },
+  "author": "ramnithik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ramnithik/pincode-lat-long/issues"
+  },
+  "homepage": "https://github.com/ramnithik/pincode-lat-long#readme"
+}
